@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a C++ scanner system
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with C++
-- 📫 You can reach me [here][website]
+- 📫 You can reach me [here][contact]
 - ⚡ Fun fact: I'm a great sailor 😛
 
 ### Connect with me:
@@ -38,4 +38,5 @@
 
 
 [website]: https://christofferljungahlstedt.github.io/portfolio/
+[contact]: https://christofferljungahlstedt.github.io/portfolio/#contact
 [linkedin]: https://www.linkedin.com/in/christoffer-ljung-ahlstedt-775878222/
