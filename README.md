@@ -39,4 +39,4 @@
 
 [website]: https://christofferljungahlstedt.github.io/portfolio/
 [contact]: https://christofferljungahlstedt.github.io/portfolio/#contact
-[linkedin]: https://www.linkedin.com/in/christoffer-ljung-ahlstedt-775878222/
+[linkedin]: https://www.linkedin.com/in/christofferljungahlstedt/
