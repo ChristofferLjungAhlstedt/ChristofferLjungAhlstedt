@@ -1,8 +1,8 @@
 ### Hi there, I'm Christoffer
 
 ## I'm a Developer and a Student
-- 🔭 I’m currently working on a C++ scanner system
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning alpha-beta pruning
 - 🤔 I’m looking for help with C++
 - 📫 You can reach me [here][contact]
 - ⚡ Fun fact: I'm a great sailor 😛
